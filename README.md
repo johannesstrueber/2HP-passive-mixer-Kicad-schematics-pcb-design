@@ -33,8 +33,11 @@ This consits of very basic schematics and two pcb files. One for the frontpanel 
 **Fonts**
 - [Rocko – Casady & Greene](https://moorstation.org/typoasis/designers/casady_greene/r_z.htm)
 - [Tiny – Jack Halten Fahnestock](https://velvetyne.fr/fonts/tiny/)
+<br/>
 
 **Screenshot of the frontpanel rev 0.1**
 <br/>
+<br/>
+![mixer](https://github.com/johannesstrueber/2HP-passive-mixer-Kicad-schematics-pcb-design/assets/45170421/583e757a-87cf-456b-b8f3-14d4046942f6)
 
 
