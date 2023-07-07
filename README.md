@@ -14,7 +14,7 @@ This consits of very basic schematics and two pcb files. One for the frontpanel 
 **CHANGELOG** <br/>
 <br/>
 
-**rev0.1** <br/>
+**rev 0.1** <br/>
 <ul>
 <li>first layout NOT PRODUCED. It's ordered and will arrive soon ;)</li>
 </ul>
